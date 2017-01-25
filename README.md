@@ -2,8 +2,8 @@
 Pasta criada para a cadeira de APA
 
 Para executar o insertionsort:
-gcc -g  insertionsort.c -o ins
-./ins nomedoarquivodesaida.out < example.in
+##gcc -g  insertionsort.c -o ins
+##./ins nomedoarquivodesaida.out < example.in
 
 Para executar o selectionsort:
 gcc -g selectionsort.c -o sel
