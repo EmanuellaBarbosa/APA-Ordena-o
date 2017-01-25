@@ -1,9 +1,9 @@
 # APA-Ordenação
-Pasta criada para a cadeira de APA
+##Pasta criada para a cadeira de APA
 
-Para executar o insertionsort:
-##gcc -g  insertionsort.c -o ins
-##./ins nomedoarquivodesaida.out < example.in
+##Para executar o insertionsort:
+####gcc -g  insertionsort.c -o ins
+####./ins nomedoarquivodesaida.out < example.in
 
 Para executar o selectionsort:
 gcc -g selectionsort.c -o sel
